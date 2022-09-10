@@ -1,0 +1,6 @@
+module:com.projetos.agenda
+com.projetos.agenda
+com.projetos.agenda.controller
+com.projetos.agenda.dao
+com.projetos.agenda.model
+com.projetos.agenda.util
